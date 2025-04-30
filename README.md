@@ -2,8 +2,8 @@
 
 A beautifully animated **Flutter app** featuring sleek **Splash** and **Onboarding Screens** — designed for modern book lovers.
 
-[![View on Behance](https://img.shields.io/badge/View%20Design-Behance-blue?logo=behance)](YOUR_BEHANCE_IMAGE_LINK)
-[![Watch on Instagram](https://img.shields.io/badge/Watch%20Demo-Instagram-E4405F?logo=instagram&logoColor=white)](YOUR_INSTAGRAM_VIDEO_LINK)
+![Bookstore Animation](assets/preview.png)
+[![Watch on Instagram](https://img.shields.io/badge/Watch%20Demo-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/reel/DIycgLVz7rr/)
 
 ---
 
@@ -22,7 +22,6 @@ A beautifully animated **Flutter app** featuring sleek **Splash** and **Onboardi
 > 👇 Would you use an app like this for your next read?
 
 🎥 **Watch Demo:** [Instagram Video](https://www.instagram.com/reel/DIycgLVz7rr/)  
-🖼️ **View Design on Behance:** [Behance Image](YOUR_BEHANCE_IMAGE_LINK)
 
 ---
 
